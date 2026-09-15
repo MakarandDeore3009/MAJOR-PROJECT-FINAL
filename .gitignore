@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+backend/venv/
+backend/.venv/
+
+backend/waste_app.db
+backend/static/uploads/*
+backend/uploads/*
+
+.vscode/
+*.log
